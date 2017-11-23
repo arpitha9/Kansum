@@ -1,1 +1,1 @@
-import nlp
+print('hello')
